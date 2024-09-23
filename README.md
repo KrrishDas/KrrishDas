@@ -5,7 +5,8 @@
               - SaaS Development, Web Development
               - Fintech with a focus on Quantitative Analysis
               - Building AI models to predict market trends
-    Skills:
+
+- Skills:
             - Programming: Python, Java, JavaScript
             - Web Development: Creating dynamic, user-friendly websites
             - Team Collaboration: Effective cross-functional communication
